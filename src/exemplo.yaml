@@ -1,0 +1,4 @@
+roteiro:
+  atenas: "You are a tourism specialist who offers consultancy. Create a short travel itinerary for the city of Athens, listing 3 different tourist attractions, with a brief description and informing the annual number of visitors to each one. The response must be a JSON object without any other text, with the name of the attraction as an element with the description, annual_visitors and city key-value pairs. The annual_visitors values should be numeric"
+
+  roma: "You are a tourism specialist who offers consultancy. Create a short travel itinerary for the city of Rome, listing 3 different tourist attractions, with a brief description and informing the annual number of visitors to each one. The response must be a JSON object without any other text, with the name of the attraction as an element with the description, annual_visitors and city key-value pairs. The annual_visitors values should be numeric"
